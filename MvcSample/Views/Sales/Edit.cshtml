@@ -1,0 +1,54 @@
+﻿@model BusinessLayer.Sales
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+<p><a href="javascript:window.print()">Print</a></p>
+<link href="~/css/sb-admin-rtl.css" rel="stylesheet" />
+<link href="~/css/sb-admin.css" rel="stylesheet" />
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Sales</legend>
+
+        @Html.HiddenFor(model => model.ID)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CowId)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.CowId)
+            @Html.ValidationMessageFor(model => model.CowId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Date)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Date)
+            @Html.ValidationMessageFor(model => model.Date)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Amount)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Amount)
+            @Html.ValidationMessageFor(model => model.Amount)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Previous", "Index")
+</div>
+
+

@@ -1,0 +1,51 @@
+﻿@model BusinessLayer.Roles
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+<p><a href="javascript:window.print()">Print</a></p>
+<link href="~/css/sb-admin-rtl.css" rel="stylesheet" />
+<link href="~/css/sb-admin.css" rel="stylesheet" />
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend></legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.role_id)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.role_id)
+            @Html.ValidationMessageFor(model => model.role_id)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.role_name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.role_name)
+            @Html.ValidationMessageFor(model => model.role_name)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.role_desc)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.role_desc)
+            @Html.ValidationMessageFor(model => model.role_desc)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Previous", "Index")
+</div>
+

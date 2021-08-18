@@ -1,0 +1,68 @@
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\MvcSample.dll.config
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\MvcSample.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\MvcSample.pdb
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\Microsoft.Web.Infrastructure.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\Newtonsoft.Json.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Net.Http.Formatting.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.Helpers.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.Http.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.Http.WebHost.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.Mvc.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.Razor.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.WebPages.Deployment.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.WebPages.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.WebPages.Razor.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\Newtonsoft.Json.xml
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Net.Http.Formatting.xml
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.Helpers.xml
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.Http.xml
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.Http.WebHost.xml
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.Mvc.xml
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.Razor.xml
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.WebPages.xml
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.WebPages.Deployment.xml
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\System.Web.WebPages.Razor.xml
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\obj\Debug\MvcSample.csprojResolveAssemblyReference.cache
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\obj\Debug\MvcSample.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\obj\Debug\MvcSample.pdb
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\BusinessLayer.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\MvcSample\bin\BusinessLayer.pdb
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\MvcSample\MvcSample\bin\EntityFramework.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\MvcSample\MvcSample\bin\EntityFramework.xml
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\MvcSample.dll.config
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\MvcSample.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\MvcSample.pdb
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\BusinessLayer.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\EntityFramework.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\Newtonsoft.Json.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Net.Http.Formatting.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.Helpers.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.Http.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.Http.WebHost.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.Mvc.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.Razor.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.WebPages.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.WebPages.Razor.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\BusinessLayer.pdb
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\EntityFramework.xml
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\Newtonsoft.Json.xml
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Net.Http.Formatting.xml
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.Helpers.xml
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.Http.xml
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.Http.WebHost.xml
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.Mvc.xml
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.Razor.xml
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.WebPages.xml
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\bin\System.Web.WebPages.Razor.xml
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\obj\Debug\MvcSample.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\obj\Debug\MvcSample.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\obj\Debug\MvcSample.pdb
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\obj\Debug\RdlCompile.cache
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\obj\Debug\RdlCompile.compiled
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\MvcSample\obj\Debug\MvcSample.csproj.ResolveComReference.cache

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MvcSample",
+    "\\MvcSample\\Controllers",
+    "\\MvcSample\\Models",
+    "\\MvcSample\\Views",
+    "\\MvcSample\\Views\\Login"
+  ],
+  "SelectedNode": "\\MvcSample\\Models\\Users.Context.cs",
+  "PreviewInSolutionExplorer": false
+}

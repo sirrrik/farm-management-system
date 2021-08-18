@@ -1,0 +1,54 @@
+﻿@model BusinessLayer.CPemp
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>CPemp</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.CowId)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CowId)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Age)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Age)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Breed)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Breed)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Health)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Health)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.DateOfBirth)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DateOfBirth)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}

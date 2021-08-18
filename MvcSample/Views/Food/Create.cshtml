@@ -1,0 +1,51 @@
+﻿@model BusinessLayer.Food
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+<p><a href="javascript:window.print()">Print</a></p>
+<link href="~/css/sb-admin-rtl.css" rel="stylesheet" />
+<link href="~/css/sb-admin.css" rel="stylesheet" />
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend></legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.food_id)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.food_id)
+            @Html.ValidationMessageFor(model => model.food_id)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.food_name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.food_name)
+            @Html.ValidationMessageFor(model => model.food_name)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.quantity)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.quantity)
+            @Html.ValidationMessageFor(model => model.quantity)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Previous", "Index")
+</div>
+

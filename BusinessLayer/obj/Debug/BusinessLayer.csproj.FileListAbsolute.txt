@@ -1,0 +1,10 @@
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\windows10 dektop\documents\visual studio 2013\S3\MvcSample\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\MvcSample\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\WINDOWS10 DEKTOP\Documents\Visual Studio 2013\S3\Dairy Farm Management System\BusinessLayer\obj\Debug\BusinessLayer.pdb
